@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @analyst1207
 - 👀 I’m interested in Data and Business Analysis
 - 🌱 I’m currently learning more in SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on creating insightful dashboards
 - 📫 How to reach me: khandelwal.naman12@gmail.com
 
 <!---
